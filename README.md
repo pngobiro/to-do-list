@@ -28,3 +28,12 @@ This simple To-Do List Manager was created by Patrick Ngobiro as a project for t
 
    ```bash
    git clone https://github.com/pngobiro/to-do-list.git
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- **Patrick Ngobiro**
+  - GitHub: [patrickngobiro](https://github.com/pngobiro)
+  - Email: pngobiro@gmail.com
+
