@@ -34,6 +34,6 @@ This simple To-Do List Manager was created by Patrick Ngobiro as a project for t
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - **Patrick Ngobiro**
-  - GitHub: [patrickngobiro](https://github.com/pngobiro)
+  - GitHub: [pngobiro](https://github.com/pngobiro)
   - Email: pngobiro@gmail.com
 
