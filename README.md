@@ -27,4 +27,4 @@ This simple To-Do List Manager was created by Patrick Ngobiro as a project for t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/patrickngobiro/todo-list-manager.git
+   git clone https://github.com/pngobiro/todo-list-manager.git
